@@ -39,10 +39,4 @@ Each customer is scored from 1 to 5 in each category, then grouped into segments
 > 🎯 *Euro Shopping Channel* is a **Champion** with top score `555`  
 > ⚠️ *Signal Collectibles Ltd.* is **About to Sleep** with score `111`
 
-## 🙋 About Me
 
-I'm a business student learning Data Analytics and CRM strategies. This project is a hands-on practice in understanding customer value through data.
-
----
-
-If you find this helpful or have suggestions, feel free to fork this repo or contact me!
